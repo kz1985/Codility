@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class Int_Missing {
 	  public static void main(String[] args) {
-	        int[] arr = {1, 2, 4, 6,5, 3, 7, 8, 10}; // Example array with a missing integer
+	        int[] arr = {1,2,3}; // Example array with a missing integer
 
 
 	        int missingInteger = findMissingInteger(arr);
